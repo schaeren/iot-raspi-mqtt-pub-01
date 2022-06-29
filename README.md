@@ -2,7 +2,7 @@
 
 This MQTT client application publishes messages to an MQTT broker (Mosquitto). The connection to the broker uses TLS 1.3 and client certificates. This example runs directly on the Raspberry Pi (Standard or Zero 2 W) and is implemented using MQTTnet, .NET and C#, but can also be used on any other system that supports .NET Core. 
 
-The corresponding subcriber application can be found at ://github.com/schaeren/iot-raspi-mqtt-sub-01.
+The corresponding subcriber application can be found at http://github.com/schaeren/iot-raspi-mqtt-sub-01.
 
 Tested on the following target system: 
 - Raspberry Pi 4 Model B or Raspberry Pi Zero 2 W
