@@ -4,7 +4,7 @@ This MQTT client application publishes messages to an MQTT broker (Mosquitto). T
 
 The corresponding subcriber application can be found at ://github.com/schaeren/iot-raspi-mqtt-sub-01.
 
-Target system: 
+Tested on the following target system: 
 - Raspberry Pi 4 Model B or Raspberry Pi Zero 2 W
 - Pi OS 32-bit or 64-bit
 - Mosquitto MQTT broker.
